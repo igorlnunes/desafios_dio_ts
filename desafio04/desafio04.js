@@ -44,8 +44,8 @@ var _this = this;
 // Todas as requisições necessárias para as atividades acima já estão prontas, mas a implementação delas ficou pela metade (não vou dar tudo de graça).
 // Atenção para o listener do botão login-button que devolve o sessionID do usuário
 // É necessário fazer um cadastro no https://www.themoviedb.org/ e seguir a documentação do site para entender como gera uma API key https://developers.themoviedb.org/3/getting-started/introduction
-//var apiKeyOF: string = 'ff978237fadbba0a3b2c3839340485bd';
-var apiKey = 'ff978237fadbba0a3b2c3839340485bd';
+//var apiKeyOF: string = 'xxxxxxxxxxxxxxxx';
+var apiKey = 'xxxxxxxxxxxx';
 var requestToken;
 var username;
 var password;

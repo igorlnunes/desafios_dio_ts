@@ -10,8 +10,8 @@
 // Atenção para o listener do botão login-button que devolve o sessionID do usuário
 // É necessário fazer um cadastro no https://www.themoviedb.org/ e seguir a documentação do site para entender como gera uma API key https://developers.themoviedb.org/3/getting-started/introduction
 
-//var apiKeyOF: string = 'ff978237fadbba0a3b2c3839340485bd';
-let apiKey: string = 'ff978237fadbba0a3b2c3839340485bd';
+
+let apiKey: string = 'xxxxxxxxxxxxxxx';
 let requestToken: string;
 let username: string;
 let password: string;
